@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Lato';
+  font-weight: 300;
+  font-style: normal;
+  src: local('Lato Light'), local('Lato-Light') url('/css/fonts/Lato/Lato-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-weight: 400;
+  font-style: normal;
+  src: local('Lato Regular'), local('Lato-Regular') url('/css/fonts/Lato/Lato-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-style: normal;
+  src: local('Lato Bold'), local('Lato-Bold') url('/css/fonts/Lato/Lato-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-weight: 300;
+  font-style: italic;
+  src: local('Lato Light Italic'), local('Lato-LightItalic') url('/css/fonts/Lato/Lato-LightItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-weight: 400;
+  font-style: italic;
+  src: local('Lato Regular Italic'), local('Lato-RegularItalic') url('/css/fonts/Lato/Lato-RegularItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-weight: 700;
+  font-style: italic;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic') url('/css/fonts/Lato/Lato-BoldItalic.ttf') format('truetype');
+}
